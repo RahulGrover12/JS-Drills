@@ -1,0 +1,15 @@
+{
+  "name": "cardrill",
+  "version": "1.0.0",
+  "main": "problem6.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node run problem6.js"
+  },
+  "keywords": [],
+  "author": "Rahul Grover",
+  "license": "MIT",
+  "description": ""
+}

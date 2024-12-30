@@ -1,0 +1,12 @@
+{
+  "name": "js-drill",
+  "version": "1.0.0",
+  "main": "problem5.js",
+  "scripts": {
+    "start": "node problem5.js"
+  },
+  "keywords": [],
+  "author": "Rahul Grover",
+  "license": "MIT",
+  "description": ""
+}
